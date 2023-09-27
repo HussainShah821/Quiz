@@ -22,4 +22,7 @@ const person=[
 for(let i= 0; i<=Array.length; i++)
 console.log('person '+ person[i].id + ' name is '+ person[i].personName + " having salary "+ person[i].personIncome );
 
+//Task 3
 console.log(person[0])
+
+console.log(person[1])
